@@ -1,4 +1,4 @@
-# hello
+# Hello
 
 Sometimes you are somewhere and want to message someone but you can't quite do it. Well, no worries, Hello gots your back. Here how you do it:
 
